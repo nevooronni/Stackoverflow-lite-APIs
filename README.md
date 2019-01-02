@@ -6,7 +6,7 @@
 
 ## The following are API enpoints enabling one to:
 
-* Create an acc*ount
+* Create an accuount
 * Login one you create an account
 * Post a question
 * Get all questions posted
